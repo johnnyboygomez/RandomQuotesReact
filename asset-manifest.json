@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/RemoteQuotesReact/static/css/main.e1239925.chunk.css",
-    "main.js": "/RemoteQuotesReact/static/js/main.41aaa6e7.chunk.js",
-    "main.js.map": "/RemoteQuotesReact/static/js/main.41aaa6e7.chunk.js.map",
-    "runtime-main.js": "/RemoteQuotesReact/static/js/runtime-main.edd76ec9.js",
-    "runtime-main.js.map": "/RemoteQuotesReact/static/js/runtime-main.edd76ec9.js.map",
-    "static/js/2.46f81076.chunk.js": "/RemoteQuotesReact/static/js/2.46f81076.chunk.js",
-    "static/js/2.46f81076.chunk.js.map": "/RemoteQuotesReact/static/js/2.46f81076.chunk.js.map",
-    "static/js/3.f36e2472.chunk.js": "/RemoteQuotesReact/static/js/3.f36e2472.chunk.js",
-    "static/js/3.f36e2472.chunk.js.map": "/RemoteQuotesReact/static/js/3.f36e2472.chunk.js.map",
-    "index.html": "/RemoteQuotesReact/index.html",
-    "static/css/main.e1239925.chunk.css.map": "/RemoteQuotesReact/static/css/main.e1239925.chunk.css.map",
-    "static/js/2.46f81076.chunk.js.LICENSE.txt": "/RemoteQuotesReact/static/js/2.46f81076.chunk.js.LICENSE.txt"
+    "main.css": "/randomquotesreact/static/css/main.e1239925.chunk.css",
+    "main.js": "/randomquotesreact/static/js/main.d45657eb.chunk.js",
+    "main.js.map": "/randomquotesreact/static/js/main.d45657eb.chunk.js.map",
+    "runtime-main.js": "/randomquotesreact/static/js/runtime-main.8b8173e1.js",
+    "runtime-main.js.map": "/randomquotesreact/static/js/runtime-main.8b8173e1.js.map",
+    "static/js/2.d5336ee6.chunk.js": "/randomquotesreact/static/js/2.d5336ee6.chunk.js",
+    "static/js/2.d5336ee6.chunk.js.map": "/randomquotesreact/static/js/2.d5336ee6.chunk.js.map",
+    "static/js/3.ccabf747.chunk.js": "/randomquotesreact/static/js/3.ccabf747.chunk.js",
+    "static/js/3.ccabf747.chunk.js.map": "/randomquotesreact/static/js/3.ccabf747.chunk.js.map",
+    "index.html": "/randomquotesreact/index.html",
+    "static/css/main.e1239925.chunk.css.map": "/randomquotesreact/static/css/main.e1239925.chunk.css.map",
+    "static/js/2.d5336ee6.chunk.js.LICENSE.txt": "/randomquotesreact/static/js/2.d5336ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.edd76ec9.js",
-    "static/js/2.46f81076.chunk.js",
+    "static/js/runtime-main.8b8173e1.js",
+    "static/js/2.d5336ee6.chunk.js",
     "static/css/main.e1239925.chunk.css",
-    "static/js/main.41aaa6e7.chunk.js"
+    "static/js/main.d45657eb.chunk.js"
   ]
 }
